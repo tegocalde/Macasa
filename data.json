@@ -1,0 +1,29 @@
+{
+    "categorias": [
+        { "id": 1, "nombre": "Electrónica", "descripcion": "Dispositivos y accesorios electrónicos", "orden": 1, "activo": 1 },
+        { "id": 2, "nombre": "Oficina", "descripcion": "Suministros y mobiliario de oficina", "orden": 2, "activo": 1 },
+        { "id": 3, "nombre": "Hogar", "descripcion": "Artículos para el hogar", "orden": 3, "activo": 1 },
+        { "id": 4, "nombre": "Papelería", "descripcion": "Útiles y materiales de papelería", "orden": 4, "activo": 1 },
+        { "id": 5, "nombre": "Tecnología", "descripcion": "Accesorios tecnológicos y computación", "orden": 5, "activo": 1 }
+    ],
+    "productos": [
+        { "id": 1, "nombre": "Laptop HP 15\"", "descripcion": "Laptop HP con procesador Intel i5, 8GB RAM, 256GB SSD", "precio": 12999.00, "imagen": "", "categoria_id": 1, "stock": 15, "activo": 1 },
+        { "id": 2, "nombre": "Mouse Inalámbrico", "descripcion": "Mouse ergonómico inalámbrico con receptor USB", "precio": 299.00, "imagen": "", "categoria_id": 1, "stock": 50, "activo": 1 },
+        { "id": 3, "nombre": "Teclado Mecánico", "descripcion": "Teclado mecánico RGB con switches blue", "precio": 899.00, "imagen": "", "categoria_id": 1, "stock": 30, "activo": 1 },
+        { "id": 4, "nombre": "Audífonos Bluetooth", "descripcion": "Audífonos over-ear con cancelación de ruido", "precio": 1599.00, "imagen": "", "categoria_id": 1, "stock": 25, "activo": 1 },
+        { "id": 5, "nombre": "Silla de Oficina Ergonómica", "descripcion": "Silla ajustable con soporte lumbar y reposabrazos", "precio": 3499.00, "imagen": "", "categoria_id": 2, "stock": 10, "activo": 1 },
+        { "id": 6, "nombre": "Escritorio Ejecutivo", "descripcion": "Escritorio de madera con cajones y compartimentos", "precio": 5999.00, "imagen": "", "categoria_id": 2, "stock": 8, "activo": 1 },
+        { "id": 7, "nombre": "Lámpara LED Escritorio", "descripcion": "Lámpara regulable con 3 niveles de intensidad", "precio": 449.00, "imagen": "", "categoria_id": 2, "stock": 40, "activo": 1 },
+        { "id": 8, "nombre": "Organizador de Archivos", "descripcion": "Organizador metálico para documentos y carpetas", "precio": 189.00, "imagen": "", "categoria_id": 2, "stock": 60, "activo": 1 },
+        { "id": 9, "nombre": "Cafetera Automática", "descripcion": "Cafetera de 12 tazas con programador horario", "precio": 2199.00, "imagen": "", "categoria_id": 3, "stock": 12, "activo": 1 },
+        { "id": 10, "nombre": "Aspiradora Robot", "descripcion": "Aspiradora robot con navegación inteligente", "precio": 4999.00, "imagen": "", "categoria_id": 3, "stock": 7, "activo": 1 },
+        { "id": 11, "nombre": "Purificador de Aire", "descripcion": "Purificador con filtro HEPA y sensor de calidad", "precio": 1899.00, "imagen": "", "categoria_id": 3, "stock": 18, "activo": 1 },
+        { "id": 12, "nombre": "Cuaderno Premium", "descripcion": "Cuaderno de 200 hojas con tapa dura", "precio": 149.00, "imagen": "", "categoria_id": 4, "stock": 100, "activo": 1 },
+        { "id": 13, "nombre": "Set de Bolígrafos", "descripcion": "Pack de 12 bolígrafos de colores", "precio": 79.00, "imagen": "", "categoria_id": 4, "stock": 150, "activo": 1 },
+        { "id": 14, "nombre": "Marcadores Profesionales", "descripcion": "Set de 24 marcadores de doble punta", "precio": 349.00, "imagen": "", "categoria_id": 4, "stock": 45, "activo": 1 },
+        { "id": 15, "nombre": "Hub USB-C", "descripcion": "Hub 7-en-1 con HDMI, USB 3.0 y lector SD", "precio": 699.00, "imagen": "", "categoria_id": 5, "stock": 35, "activo": 1 },
+        { "id": 16, "nombre": "Cable HDMI 2m", "descripcion": "Cable HDMI 2.1 soporte 4K@120Hz", "precio": 199.00, "imagen": "", "categoria_id": 5, "stock": 80, "activo": 1 },
+        { "id": 17, "nombre": "Webcam HD 1080p", "descripcion": "Webcam con micrófono integrado y autofocus", "precio": 599.00, "imagen": "", "categoria_id": 5, "stock": 22, "activo": 1 },
+        { "id": 18, "nombre": "Disco Duro Externo 1TB", "descripcion": "Disco duro portátil USB 3.0", "precio": 1099.00, "imagen": "", "categoria_id": 5, "stock": 20, "activo": 1 }
+    ]
+}
